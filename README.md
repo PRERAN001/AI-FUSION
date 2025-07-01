@@ -82,7 +82,6 @@ AI_fussion/
 ├── app.py                # Main Flask app
 ├── app_flask.py          # (Alternative/legacy Flask app)
 ├── model.py              # Model training and saving
-├── music.py              # YouTube audio download utility
 ├── sasta_array.py        # (Utility or experimental script)
 ├── index.html            # Web UI template
 ├── actual_data.xlsx      # Training data
